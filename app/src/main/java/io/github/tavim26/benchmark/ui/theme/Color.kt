@@ -1,4 +1,4 @@
-package com.example.mobilebenchmarkapp.ui.theme
+package io.github.tavim26.benchmark.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
