@@ -1,0 +1,36 @@
+# Gradle / build
+.gradle/
+build/
+/captures
+.externalNativeBuild/
+.cxx/
+
+# Kotlin 2.x (creează folderul .kotlin/ în rădăcina proiectului)
+.kotlin/
+
+# Configurare locală (calea către SDK, eventuale chei)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Chei de semnare (nu trebuie să ajungă niciodată publice)
+*.jks
+*.keystore
+
+# Fișiere generate
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Loguri
+*.log
+
+# Sistem de operare
+.DS_Store
+Thumbs.db
