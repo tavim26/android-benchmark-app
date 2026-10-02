@@ -60,4 +60,4 @@ class ScoreCalculatorTest {
         val score = ScoreCalculator.testScore(result(cpuTest, 0.0))
         assertTrue(score.isFinite())
     }
-}v
+}
